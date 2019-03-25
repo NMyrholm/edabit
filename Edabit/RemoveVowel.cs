@@ -5,8 +5,10 @@ namespace Edabit
 {
     class RemoveVowel
     {
-        public static void Vowel(string args)
+        public static void Vowel()
         {
+            Console.WriteLine("Write a sentence: ");
+            string args = Console.ReadLine();
             Console.WriteLine(SilenceTrump(args));
         }
 
