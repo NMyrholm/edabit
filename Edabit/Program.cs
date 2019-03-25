@@ -8,7 +8,6 @@ namespace Edabit
             var menuchoice = -1;
             while (menuchoice != 0)
             {
-
                 Console.WriteLine("MENU");
                 Console.WriteLine("Please enter the number that you want to do:");
                 Console.WriteLine("0. Exit");
