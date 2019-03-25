@@ -7,7 +7,6 @@ namespace Edabit
     {
         public static void Vowel(string args)
         {
-            //string str = "Hej jag heter Nils";
             Console.WriteLine(SilenceTrump(args));
         }
 
