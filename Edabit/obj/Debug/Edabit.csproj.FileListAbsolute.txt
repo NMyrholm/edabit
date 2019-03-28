@@ -5,3 +5,10 @@ C:\Users\Nils\source\repos\Edabit\Edabit\bin\Debug\Edabit.exe
 C:\Users\Nils\source\repos\Edabit\Edabit\bin\Debug\Edabit.pdb
 C:\Users\Nils\source\repos\Edabit\Edabit\obj\Debug\Edabit.exe
 C:\Users\Nils\source\repos\Edabit\Edabit\obj\Debug\Edabit.pdb
+C:\Users\Nils\Documents\GitHub\edabit\Edabit\bin\Debug\Edabit.exe.config
+C:\Users\Nils\Documents\GitHub\edabit\Edabit\bin\Debug\Edabit.exe
+C:\Users\Nils\Documents\GitHub\edabit\Edabit\bin\Debug\Edabit.pdb
+C:\Users\Nils\Documents\GitHub\edabit\Edabit\obj\Debug\Edabit.csprojAssemblyReference.cache
+C:\Users\Nils\Documents\GitHub\edabit\Edabit\obj\Debug\Edabit.csproj.CoreCompileInputs.cache
+C:\Users\Nils\Documents\GitHub\edabit\Edabit\obj\Debug\Edabit.exe
+C:\Users\Nils\Documents\GitHub\edabit\Edabit\obj\Debug\Edabit.pdb

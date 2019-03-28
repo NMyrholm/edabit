@@ -8,8 +8,8 @@ namespace Edabit
         public static void Vowel()
         {
             Console.WriteLine("Write a sentence: ");
-            string args = Console.ReadLine();
-            Console.WriteLine(SilenceTrump(args));
+            string input = Console.ReadLine();
+            Console.WriteLine(SilenceTrump(input));
         }
 
         public static string SilenceTrump(string str)
